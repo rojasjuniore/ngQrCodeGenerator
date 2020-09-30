@@ -104,6 +104,10 @@
           }
         }
       }
-    }},
-  "defaultProject": "ngGenerateQRCodes"
+    }
+  },
+  "defaultProject": "ngGenerateQRCodes",
+  "cli": {
+    "analytics": "f8558f1f-aaa0-4001-88ec-dc6dc31d0afc"
+  }
 }
